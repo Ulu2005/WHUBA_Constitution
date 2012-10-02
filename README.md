@@ -1,29 +1,19 @@
-## Îäºº´óÑ§°ôÇòÐ­»áÕÂ³Ì
+ï»¿## æ­¦æ±‰å¤§å­¦æ£’çƒåä¼šç« ç¨‹
 
-Õâ¸öÏîÄ¿ÓÃÀ´Î¬»¤¡¶Îäºº´óÑ§°ôÇòÐ­»áÕÂ³Ì¡·¡£ÓÉÓÚGitHubµÄÒ×ÓÃÐÔ£¬ÎÒÃÇ¾ö¶¨Ê¹ÓÃGitHubÀ´½øÐÐ°æ±¾¿ØÖÆ¡£
-ÔÚÕâÀï¿ÉÒÔÇåÎúµØ¿´µ½Ð­»áÕÂ³ÌµÄÃ¿´Î¸ü¸ÄÓëÉÏÒ»¸ö°æ±¾µÄ²îÒì¡£
-±¾ÏîÄ¿Æ½Ê±Ö÷ÒªÓÉÐ­»á**ÏÖÈÎ¾­Àí**½øÐÐÎ¬»¤¡£
+è¿™ä¸ªé¡¹ç›®ç”¨æ¥ç»´æŠ¤ã€Šæ­¦æ±‰å¤§å­¦æ£’çƒåä¼šç« ç¨‹ã€‹ã€‚ç”±äºŽGitHubçš„æ˜“ç”¨æ€§ï¼Œæˆ‘ä»¬å†³å®šä½¿ç”¨GitHubæ¥è¿›è¡Œç‰ˆæœ¬æŽ§åˆ¶ã€‚
+åœ¨è¿™é‡Œå¯ä»¥æ¸…æ™°åœ°çœ‹åˆ°åä¼šç« ç¨‹çš„æ¯æ¬¡æ›´æ”¹ä¸Žä¸Šä¸€ä¸ªç‰ˆæœ¬çš„å·®å¼‚ã€‚
+æœ¬é¡¹ç›®å¹³æ—¶ä¸»è¦ç”±åä¼š**çŽ°ä»»ç»ç†**è¿›è¡Œç»´æŠ¤ã€‚
 
-## ÕÂ³ÌµÄ±àÒë
+## ç« ç¨‹çš„ç¼–è¯‘
 
-Ð­»áÕÂ³ÌÒÔXeTeXÓïÑÔ±àÐ´£¬Ê¹ÓÃÁË**fontspec**,**hyperref**,**ctex**ºê°ü¡£
+åä¼šç« ç¨‹ä»¥XeTeXè¯­è¨€ç¼–å†™ï¼Œä½¿ç”¨äº†**fontspec**,**hyperref**,**ctex**å®åŒ…ã€‚
 
-## ¹ØÓÚÎäºº´óÑ§°ôÇòÐ­»á
+## å…³äºŽæ­¦æ±‰å¤§å­¦æ£’çƒåä¼š
 
-Îäºº´óÑ§°ôÇòÐ­»áÊÇÒ»¸öÓÉÎäºº´óÑ§µÄ°ôÇò°®ºÃÕßÓÚ1999Äê·¢Æð×éÖ¯£¬ÒÔÎäºº´óÑ§Ñ§ÉúÎªÖ÷Ìå£¬
-½ÓÄÉÎäººµØÇø°ôÇò°®ºÃÕß²ÎÓë£¬Ö¼ÔÚÔÚÎäººµØÇøÍÆ¹ã²¢·¢Õ¹°ôÇòµÄÒ»¸öÐ£Ô°¡¢·ÇÓ¯ÀûÐÔÉçÍÅ¡£
+æ­¦æ±‰å¤§å­¦æ£’çƒåä¼šæ˜¯ä¸€ä¸ªç”±æ­¦æ±‰å¤§å­¦çš„æ£’çƒçˆ±å¥½è€…äºŽ1999å¹´å‘èµ·ç»„ç»‡ï¼Œä»¥æ­¦æ±‰å¤§å­¦å­¦ç”Ÿä¸ºä¸»ä½“ï¼Œ
+æŽ¥çº³æ­¦æ±‰åœ°åŒºæ£’çƒçˆ±å¥½è€…å‚ä¸Žï¼Œæ—¨åœ¨åœ¨æ­¦æ±‰åœ°åŒºæŽ¨å¹¿å¹¶å‘å±•æ£’çƒçš„ä¸€ä¸ªæ ¡å›­ã€éžç›ˆåˆ©æ€§ç¤¾å›¢ã€‚
 
-## °æ±¾¿â
+## æˆ‘ä»¬çš„è”ç³»æ–¹å¼
 
-Õâ¸öÏîÄ¿µÄ°æ±¾¿âÊÇ **Git¸ñÊ½** £¬ÔÚ Windows¡¢Linux¡¢Mac OS X
-Æ½Ì¨¶¼ÓÐ¿Í»§¶Ë¹¤¾ß¿ÉÒÔ·ÃÎÊ¡£ËäÈ»°æ±¾¿âÖ»Ìá¹©GitÒ»ÖÖ¸ñÊ½£¬
-µ«ÊÇÄã»¹ÊÇ¿ÉÒÔÓÃÆäËûÓÃÆäËû¹¤¾ß·ÃÎÊ£¬Èç ``svn`` ºÍ ``hg`` ¡£
-
-## °æ±¾¿âµØÖ·
-
-Ö§³ÖÈýÖÖ·ÃÎÊÐ­Òé£º
-
-* HTTPÐ­Òé: `https://github.com/Ulu2005/WHUBA_Constitution.git` ¡£
-* GitÐ­Òé: `git://github.com/Ulu2005/WHUBA_Constitution.git` ¡£
-* SSHÐ­Òé: `ssh://git@github.com/Ulu2005/WHUBA_Constitution.git` ¡£
-
+* æ–°æµªå¾®åš: `http://weibo.com/whubaseball` 
+* è±†ç“£å°ç«™: `http://www.douban.com/people/whubaseball/`
