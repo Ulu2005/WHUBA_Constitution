@@ -6,7 +6,7 @@
 
 ## 章程的编译
 
-协会章程以XeTeX语言编写，使用了**fontspec**,**hyperref**,**ctex**宏包。
+协会章程以XeTeX语言编写，使用了`fontspec`,`hyperref`,`ctex`宏包。
 
 ## 关于武汉大学棒球协会
 
